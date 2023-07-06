@@ -1,5 +1,6 @@
 # Vuetify Image App
 
+
 A basic image gallery app that I created to learn basics of Vue and Vuetify. It shows 200 lazy loading images in both
 color and grayscale.
 ---
