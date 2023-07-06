@@ -1,5 +1,8 @@
-# image-app
+# Vuetify Image App
 
+A basic image gallery app that I created to learn basics of Vue and Vuetify. It shows 200 lazy loading images in both
+color and grayscale.
+---
 ## Project setup
 ```
 npm install
@@ -19,6 +22,7 @@ npm run build
 ```
 npm run lint
 ```
+---
+Can Durmus 2023
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
